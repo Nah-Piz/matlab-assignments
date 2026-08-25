@@ -1,6 +1,6 @@
 ﻿# MATLAB Onramp & Coursework Assignments
 
-This repository contains MATLAB code, course completion certificates, and progress reports for academic assignments under the **WAR 2** course module.
+This repository contains MATLAB course completion certificates, and progress reports for academic assignments under the **WAR 2** course module.
 
 ---
 
@@ -25,7 +25,6 @@ This repository contains MATLAB code, course completion certificates, and progre
 
 This repository includes:
 
-* MATLAB scripts (`.m` files) covering coursework exercises and numerical analysis problems.
 * Verification artifacts confirming completion of required MathWorks online modules.
 
 ---
@@ -39,5 +38,3 @@ git clone https://github.com/Nah-Piz/matlab-assignments.git
 cd matlab-assignments
 
 ```
-
-Open MATLAB, navigate to the directory, and run the desired script.
