@@ -31,7 +31,7 @@ This repository includes:
 
 ## Getting Started
 
-To clone and run these scripts locally in MATLAB:
+To clone this repo:
 
 ```bash
 git clone https://github.com/Nah-Piz/matlab-assignments.git
