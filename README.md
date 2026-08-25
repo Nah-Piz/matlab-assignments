@@ -35,6 +35,6 @@ To clone and run these scripts locally in MATLAB:
 
 ```bash
 git clone https://github.com/Nah-Piz/matlab-assignments.git
-cd matlab-assignments
+cd matlab-assignments/assignment-1
 
 ```
